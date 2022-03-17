@@ -1,0 +1,5 @@
+# pgdisablelogerror extension
+comment = 'pgdisablelogerror - Disable logging of some error messages'
+default_version = '1.0'
+module_pathname = '$libdir/pgdisablelogerror'
+relocatable = true
